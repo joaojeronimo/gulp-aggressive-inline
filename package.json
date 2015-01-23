@@ -1,0 +1,13 @@
+{
+  "name": "gulp-aggressive-inline",
+  "version": "0.0.1",
+  "description": "Gulp wrapper for aggressive-inline",
+  "main": "index.js",
+  "dependencies": {
+    "aggressive-inline": "*",
+    "gulp-util": "^3.0.1",
+    "through2": "^0.6.3"
+  },
+  "author": "João Jerónimo",
+  "license": "ISC"
+}
