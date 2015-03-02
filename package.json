@@ -1,6 +1,6 @@
 {
   "name": "gulp-aggressive-inline",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gulp wrapper for aggressive-inline",
   "main": "index.js",
   "dependencies": {
