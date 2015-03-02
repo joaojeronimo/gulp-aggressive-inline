@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "aggressive-inline": "*",
-    "gulp-util": "^3.0.1",
+    "gulp-util": "^3.0.4",
     "through2": "^0.6.3"
   },
   "author": "João Jerónimo",
